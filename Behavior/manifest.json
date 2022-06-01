@@ -1,24 +1,28 @@
-        "name": "Vanilla Behavior Pack",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+{
+    "format_version": 1,
+    "header": {
+        "description": "Minecraft Add-On",
+        "name": "Expler's Experiment Add-On",
+        "uuid": "ae772fc9-cd7d-4b37-9cb3-86d053e7f310",
         "version": [0, 0, 1]
     },
     "modules": [
         {
-            "description": "Example behavior pack module",
+            "description": "1.18 Module",
             "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "uuid": "3509c7af-5639-4499-9921-4e73267ecea5",
             "version": [0, 0, 1]
         },
         {
-            "description": "Example client scripts module",
+            "description": "1.18 Javascript Modules",
             "type": "client_data",
-            "uuid": "c05a992e-482a-455f-898c-58bbb4975e47",
+            "uuid": "bc9f5bc5-6fee-4290-b691-9249ffb1bdb6",
             "version": [0, 0, 1]
         }
     ],
     "dependencies": [
         {
-            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "uuid": "waitin for resources packs",
             "version": [0, 0, 1]
         }
     ]
