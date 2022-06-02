@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "An add-on",
+        "name": "Expler's Experiment [RP]",
+        "uuid": "9fccb3b4-3295-485f-b403-94c97c8c4ad9",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "1.18 Resources Modules",
+            "type": "resources",
+            "uuid": "2ae8b7da-ed98-4e6c-9d1f-7fbb3ac5d409",
+            "version": [0, 0, 1]
+        }
+    ]
+}
