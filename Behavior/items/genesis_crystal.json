@@ -1,0 +1,25 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "descripton": {
+      "identifier": "ee:genesis_crystal"
+    },
+    
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_duration": 1.6,
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "death",
+          "target": "self"
+        }
+      }
+    },
+    
+    "events": {
+      "death": {
+        "run_commands": ["function skills/genesis_crystal"]
+      }
+    }
+  }
+}
