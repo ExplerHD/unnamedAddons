@@ -1,5 +1,5 @@
 {
-  "format_version": "1.18.0",
+  "format_version": "1.16.100",
   "minecraft:item": {
     "descripton": {
       "identifier": "ee:empowered_blaze_powder"
