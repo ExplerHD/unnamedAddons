@@ -14,5 +14,11 @@
             "uuid": "2ae8b7da-ed98-4e6c-9d1f-7fbb3ac5d409",
             "version": [0, 0, 1]
         }
+    ],
+    "dependencies": [
+        {
+            "uuid": "waitin for behaviour packs",
+            "version": [0, 0, 1]
+        }
     ]
 }
