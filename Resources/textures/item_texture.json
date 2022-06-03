@@ -1,0 +1,11 @@
+{
+  "texture_data": {
+    "genesis_crystal": {
+      "textures": "textures/items/crystal/genesis_crystal"
+    },
+    
+    "powered_blaze_powder": {
+      "textures": "textures/items/powered_blaze_powder"
+    }
+  }
+}
